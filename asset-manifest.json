@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tahaamaidi92/E-commerce-ReactJs.git/static/css/main.c305b376.chunk.css",
+    "main.js": "/tahaamaidi92/E-commerce-ReactJs.git/static/js/main.7c4007ea.chunk.js",
+    "main.js.map": "/tahaamaidi92/E-commerce-ReactJs.git/static/js/main.7c4007ea.chunk.js.map",
+    "runtime-main.js": "/tahaamaidi92/E-commerce-ReactJs.git/static/js/runtime-main.82885818.js",
+    "runtime-main.js.map": "/tahaamaidi92/E-commerce-ReactJs.git/static/js/runtime-main.82885818.js.map",
+    "static/js/2.d9baa53f.chunk.js": "/tahaamaidi92/E-commerce-ReactJs.git/static/js/2.d9baa53f.chunk.js",
+    "static/js/2.d9baa53f.chunk.js.map": "/tahaamaidi92/E-commerce-ReactJs.git/static/js/2.d9baa53f.chunk.js.map",
+    "static/js/3.87de9f60.chunk.js": "/tahaamaidi92/E-commerce-ReactJs.git/static/js/3.87de9f60.chunk.js",
+    "static/js/3.87de9f60.chunk.js.map": "/tahaamaidi92/E-commerce-ReactJs.git/static/js/3.87de9f60.chunk.js.map",
+    "index.html": "/tahaamaidi92/E-commerce-ReactJs.git/index.html",
+    "static/css/main.c305b376.chunk.css.map": "/tahaamaidi92/E-commerce-ReactJs.git/static/css/main.c305b376.chunk.css.map",
+    "static/js/2.d9baa53f.chunk.js.LICENSE.txt": "/tahaamaidi92/E-commerce-ReactJs.git/static/js/2.d9baa53f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82885818.js",
+    "static/js/2.d9baa53f.chunk.js",
+    "static/css/main.c305b376.chunk.css",
+    "static/js/main.7c4007ea.chunk.js"
+  ]
+}
